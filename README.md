@@ -11,6 +11,7 @@ A miniature 2D version of Clash of Clans that works on CLI
    `python3 main.py`
 3. Ensure that your terminal is in full screen.
 
+
 ## Controls
 
 - `w` move King up
